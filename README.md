@@ -215,9 +215,7 @@ Replace `"Badge Description"` with a short description of the badge, and adjust 
   ```
 
 - **GitHub Release**  
-  ![GitHub Release](https
-
-://img.shields.io/github/v/release/username/repository)  
+  ![GitHub Release](https://img.shields.io/github/v/release/username/repository)  
   ```
   ![GitHub Release](https://img.shields.io/github/v/release/username/repository)
   ```
