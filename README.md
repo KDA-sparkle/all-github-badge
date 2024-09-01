@@ -66,7 +66,7 @@ Replace `"Badge Description"` with a short description of the badge, and adjust 
   ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/username/repository/Workflow-Name)
   ```
 
-- **Travis CI**  
+- **Travis CI**  BUG
   ![Travis CI](https://img.shields.io/travis/username/repository)  
   ```
   ![Travis CI](https://img.shields.io/travis/username/repository)
@@ -254,7 +254,7 @@ Replace `"Badge Description"` with a short description of the badge, and adjust 
   ![Dependencies](https://img.shields.io/librariesio/github/username/repository)
   ```
 
-- **Dev Dependencies**  
+- **Dev Dependencies**  BUG
   ![Dev Dependencies](https://img.shields.io/david/dev/username/repository)  
   ```
   ![Dev Dependencies](https://img.shields.io/david/dev/username/repository)
@@ -384,13 +384,13 @@ Replace `"Badge Description"` with a short description of the badge, and adjust 
   ![Crates.io Downloads](https://img.shields.io/crates/d/package-name)
   ```
 
-- **Docker Pulls**  
+- **Docker Pulls**  BUG
   ![Docker Pulls](https://img.shields.io/docker/pulls/package-name)  
   ```
   ![Docker Pulls](https://img.shields.io/docker/pulls/package-name)
   ```
 
-- **JitPack**  
+- **JitPack**  BUG
   ![JitPack](https://jitpack.io/v/username/repository.svg)  
   ```
   ![JitPack](https://jitpack.io/v/username/repository.svg)
@@ -432,9 +432,7 @@ Replace `"Badge Description"` with a short description of the badge, and adjust 
   ![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-blue)  
   ```
   ![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-blue)
- 
-
- ```
+  ```
 
 - **CircleCI**  
   ![CircleCI](https://img.shields.io/circleci/build/github/username/repository)  
@@ -442,7 +440,7 @@ Replace `"Badge Description"` with a short description of the badge, and adjust 
   ![CircleCI](https://img.shields.io/circleci/build/github/username/repository)
   ```
 
-- **Travis CI**  
+- **Travis CI**  BUG
   ![Travis CI](https://img.shields.io/travis/username/repository)  
   ```
   ![Travis CI](https://img.shields.io/travis/username/repository)
